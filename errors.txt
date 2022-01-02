@@ -40,3 +40,9 @@
 2022-01-02T22:36:17.115779+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/favicon.ico" host=mm-tests1.herokuapp.com request_id=83833121-eac3-46b3-aa2d-3941a84b05a4 fwd="109.233.92.25" dyno= connect= service= status=503 bytes= protocol=https
 2022-01-02T22:36:20.971553+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/" host=mm-tests1.herokuapp.com request_id=48699ebd-d108-4d86-bfde-5efea232a238 fwd="109.233.92.25" dyno= connect= service= status=503 bytes= protocol=https
 2022-01-02T22:36:21.070989+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/favicon.ico" host=mm-tests1.herokuapp.com request_id=34dc8335-6130-4b2d-a6bf-cbfe53f5e24f fwd="109.233.92.25" dyno= connect= service= status=503 bytes= protocol=https
+2022-01-02T22:51:13.000000+00:00 app[api]: Build started by user piotr.mitkowski87@gmail.com
+2022-01-02T22:51:39.850122+00:00 app[api]: Deploy dae4daba by user piotr.mitkowski87@gmail.com
+2022-01-02T22:51:39.850122+00:00 app[api]: Release v6 created by user piotr.mitkowski87@gmail.com
+2022-01-02T22:51:49.000000+00:00 app[api]: Build succeeded
+2022-01-02T22:51:54.448279+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/" host=mm-tests1.herokuapp.com request_id=521e7c19-8fca-43fd-835c-be73746b1a9e fwd="109.233.92.25" dyno= connect= service= status=503 bytes= protocol=https
+2022-01-02T22:51:54.589632+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/favicon.ico" host=mm-tests1.herokuapp.com request_id=f4742b56-d587-495a-81e3-03068b831a1c fwd="109.233.92.25" dyno= connect= service= status=503 bytes= protocol=https
